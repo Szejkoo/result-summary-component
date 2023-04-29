@@ -26,7 +26,7 @@ const Box = styled.div`
   align-items: center;
   flex-direction: column;
   width: 100vw;
-  height: 41vh;
+  height: 50vh;
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 50px;
   background: rgb(53, 42, 237);
