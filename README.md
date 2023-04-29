@@ -12,8 +12,6 @@
 
 I made this project for "Frontend Mentor" to test my skills. The task was quite enjoyable.
 
-Demo : https://szejkoo.github.io/result-summary-component
-
 <br/>
 
 ## Languages and Tools
